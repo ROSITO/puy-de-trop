@@ -2,7 +2,7 @@
 
 Fiche de publication rédigée par Bernard W, destinée à Imprimeur. Tout pour la couverture et la page Amazon, sans relire le livre.
 
-*Version 1 — 2026-10-01. Statut : plan sur branche `bernard`, PR ouverte ; en attente merge Maxime puis validation Editeur (`RULES.md` § 0). Aucun chapitre écrit. Pas de bio inventée pour Julien Mas.*
+*Version 1.1 — 2026-10-01 (delta Editeur). Statut : plan v1.1 sur `bernard`. Aucun chapitre. Pas de bio inventée pour Julien Mas.*
 
 ## Identité du livre
 
@@ -23,7 +23,7 @@ Marion Chazal avait un plan pour les brumes de septembre : guider sans mentir, r
 
 C’est Mathieu Lacombe, randonneur têtu et collectionneur de vérités gênantes, qu’elle voit s’écarter près du cratère du Puy de l’Écho — puis disparaître dans la brume, comme si la montagne venait de reprendre son dû. Accident de sentier, veut croire le quartier. Légende vivante, murmurent les autres. Mais Marion lit les scories comme d’autres lisent une carte — et quelqu’un a laissé des traces que le vent n’a pas tout à fait effacées.
 
-Entre une startup géothermique trop lisse, un frère à cran, une conteuse qui refuse de mentir aux pierres, un maire qui rêve de parking, et un collègue guide qui tend le thermos un peu trop vite, Marion enquête comme elle guide : à la boussole, aux tubes de lave, sans lâcher Basalte, son chien cendre. Heureusement, elle peut compter sur Berthe, soixante-treize ans de zinc et de contes qui piquent juste, et sur un adjudant patient qui apprend enfin qu’un alibi sans brume ne vaut pas un PV.
+Entre une startup géothermique trop lisse, un frère à cran, une archiviste qui refuse de mentir aux cartes, un maire qui rêve de parking, et un collègue guide qui connaît trop bien les codes des tubes, Marion enquête comme elle guide : à la boussole, aux tubes de lave, sans lâcher Basalte, son chien cendre. Heureusement, elle peut compter sur Léonie, soixante-treize ans de zinc et de contes qui piquent juste, et sur un adjudant patient qui apprend enfin qu’un alibi sans brume ne vaut pas un PV.
 
 Sous le ciel d’automne, certains arrangements dorment depuis trop longtemps dans les galeries. Et quelqu’un est prêt à tout pour que le puy se taise.
 
@@ -38,7 +38,7 @@ Un cosy mystery doux et fair-play — ode à la Chaîne des Puys, sans horreur n
   - cratère / puy stylisé sous brume basse (pas de photo réaliste sombre) ;
   - silhouette de Marion (38 ans, casquette, bâton, carnet) de dos ou trois-quarts sur un sentier de scories ;
   - Basalte (chien cendre) près d’une balise ou d’un bâton ;
-  - détail d’enquête discret (thermos, pierre tiède, lanterne de randonnée) — **pas de sang, pas de cadavre, pas de monstre, pas d’entité horrifique**.
+  - détail d’enquête discret (pierre tiède, lanterne de randonnée, balise temporaire) — **pas de sang, pas de cadavre, pas de monstre, pas d’entité horrifique**.
 - **Palette** : rouge-brun de scories, gris-bleu de brume, vert plateau, crème de lumière rasante, touche orange gilet ; illustration (pas photo).
 - **Typographie** : titre lisible, un peu « vent / pierre » ; sous-titre discret ; nom Julien Mas.
 - **Codes niche** : illustré, couleurs atmosphériques, héroïne + animal, décor régional saisonnier, touche soft fantasy (brume, pas horreur) ; lisible en vignette Amazon.

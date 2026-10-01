@@ -1,6 +1,6 @@
 # PERSONNAGES — Puy de trop
 
-*Cosy mystery à fantasy douce / folklorique, Chaîne des Puys / Auvergne. Auteur : **Julien Mas**. Version 1, Bernard W, 2026-10-01. Plan uniquement — aucun chapitre écrit.*
+*Cosy mystery à fantasy douce / folklorique, Chaîne des Puys / Auvergne. Auteur : **Julien Mas**. Version 1.1, Bernard W, 2026-10-01 (delta Editeur). Plan uniquement — aucun chapitre écrit.*
 
 Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puys sont inventés. Aucune personne réelle n’est mise en scène. Clermont-Ferrand, Orcines, Vulcania, le Puy de Dôme ne servent que de repères géographiques.
 
@@ -11,12 +11,12 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 1. Marion Chazal — héroïne narratrice
 2. Mathieu Lacombe — la victime
 3. Sylvain Pradel — Maison des Laves (**le coupable**)
-4. Hélène Dufour — Chaleur Vive (fausse solution)
-5. Cédric Lacombe — frère / camping
-6. Inès Volpilhac — conteuse / folkloreuse
+4. Hélène Dufour — Chaleur Vive (piste, blanchie 15)
+5. Cédric Lacombe — frère / camping (**fausse solution**)
+6. Maëlle Volpilhac — archiviste folklore
 7. Gilles Meyssat — maire
 8. Adjudant Thomas Guéry — le gendarme
-9. Berthe Neyrat — confidente / aînée
+9. Léonie Neyrat — confidente / aînée (ex-Berthe ; ≠ Berthe Ravel)
 10. Basalte — le chien de Marion
 11. Personnages d’appui
 12. Chronologie complète
@@ -34,7 +34,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Caractère** : calme, têtue, humour sec de plateau ; préfère les pierres aux discours ; justice de sentier (on ne vend pas une légende pour faire peur, on ne laisse pas une disparition « magique » sans lire les scories).
 
-**Méthode d’enquête (métier)** : lire brumes et strates ; boussole ; carnet ; tubes connus ; comportement animal (Basalte = signal) ; recouper qui connaît quelle variante de sentier à quelle heure. **Limites** : la confiance pour Sylvain biaise jusqu’au ch. 20 ; la colère face au tourisme mystique malin la rend parfois trop vite accusatrice (ch. 19).
+**Méthode d’enquête (métier)** : lire brumes et strates ; boussole ; carnet ; tubes connus ; comportement animal (Basalte = signal) ; recouper qui connaît quelle variante de sentier à quelle heure. **Limites** : la confiance pour Sylvain biaise jusqu’au ch. 20 ; la colère face aux secrets de famille / sentiers la rend parfois trop vite accusatrice (ch. 19 — Cédric).
 
 **Désir** : protéger le puy et la mémoire de ceux qui le racontent sans le vendre ; que Mathieu n’ait pas « parlé pour rien ».
 
@@ -44,7 +44,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Évolution** : de la médiatrice qui observe sans s’immiscer dans « les affaires du village » à celle qui assume l’enquête et l’erreur du ch. 19 ; reste ancrée ; accepte l’aide de Thomas.
 
-**Liens** : Basalte ; Berthe (mère de zinc) ; Sylvain (allié → traître) ; Hélène (friction) ; Thomas (agacement → estime) ; Inès (respect professionnel) ; Mathieu (interlocuteur exigeant).
+**Liens** : Basalte ; Léonie (mère de zinc) ; Sylvain (allié bureaucratique → traître) ; Hélène (friction) ; Thomas (agacement → estime) ; Maëlle (respect archives / folklore) ; Mathieu (interlocuteur exigeant).
 
 **Sa voix**
 - *Niveau* : courant, précis, peu d’effets ; narration douce sans lyrisme gratuit ; touches folkloriques tenues.
@@ -75,31 +75,31 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 ## 3. Sylvain Pradel — le coupable
 
-**Identité** : 43 ans, collègue guide / médiateur à la **Maison des Laves**, co-animateur des soirées légendes. Sourire éco-folklore, polaire propre logo centre, thermos toujours prêt, odeur légère de résine de bâton et de poussière rouge.
+**Identité** : 43 ans, collègue guide / médiateur à la **Maison des Laves**, co-animateur des soirées légendes. Sourire éco-folklore, polaire propre logo centre, **gardien des codes secteurs fermés** et des balises temporaires, odeur de poussière rouge (pas de thermos-signature).
 
-**Caractère** : chaleureux, serviable, manipulateur doux, peureux sous l’argent. **Reste sympathique jusqu’au ch. 20.**
+**Caractère** : chaleureux, serviable **par l’accès** (plannings, laissez-passer), manipulateur doux, peureux sous l’argent. **Reste sympathique jusqu’au ch. 20.**
 
 **Désir** : paraître le gardien « juste » des légendes ; effacer dettes / commission.
 
 **Peur** : être vu comme celui qui a sali la Maison des Laves ; la ruine publique.
 
-**Secret** : pillage abri + passages privés ; commission Chaleur Vive ; disparition / mort soft de Mathieu.
+**Secret** : pillage abri + passages privés ; commission Chaleur Vive ; **balisage temporaire faussé + laissez-passer détourné** → mort soft de Mathieu (pas de frappe).
 
-**Évolution** : allié → orienteur → coinçé → aveux.
+**Évolution** : allié bureaucratique → orienteur (vers Cédric) → coinçé → aveux.
 
-**Liens** : collègue de Marion ; contact Hélène / intermédiaire ; rival soft d’Inès sur le « récit ».
+**Liens** : collègue de Marion ; contact Hélène / intermédiaire ; rival soft de Maëlle sur le « récit » archives.
 
 **Sa voix**
-- *Niveau* : familier, commercial soft, vocabulaire « nature / légende » un peu trop lisse.
-- *Tics* : « Je dis ça sans vouloir… » ; « On va protéger ça ensemble. » ; prénomme tout le monde.
+- *Niveau* : familier, commercial soft, vocabulaire « nature / légende / accès » un peu trop lisse.
+- *Tics* : « Disons que… » ; « On va protéger ça ensemble. » ; prénomme tout le monde.
 - *Phrases* : fluides, rassurantes, parfois trop.
-- *Ne dirait jamais* : « J’ai poussé Mathieu dans le tube » avant les aveux ; jargon scientifique pointu (il feint).
+- *Ne dirait jamais* : « J’ai poussé Mathieu » (il n’a pas poussé) ; jargon scientifique pointu (il feint).
 - *Sous pression* : rire court, puis silence, puis « pour le puy / pour la Maison ».
-- *Exemple* : « Marion, tu sais bien que Hélène voit des obstacles partout. Je dis ça sans vouloir… »
+- *Exemple* : « Marion, disons que Cédric avait plus à gagner que personne. Les frères… »
 
 ---
 
-## 4. Hélène Dufour — fausse solution
+## 4. Hélène Dufour — piste (blanchie 15)
 
 **Identité** : 45 ans, chargée de projet **Chaleur Vive**, dossiers, manteau de ville même sur le sentier, partisane du couloir d’accès.
 
@@ -109,11 +109,11 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Voix** : phrases longues, chiffres, « concrètement », « le mix énergétique ». Sous pression : volume excessif.
 
-**Sort** : accusée ch. 19, innocentée ch. 20 ; assume ch. 24.
+**Sort** : blanchie ch. **15** (logs + ticket) ; assume avenant ch. 24 ; **n’est plus** la fausse solution.
 
 ---
 
-## 5. Cédric Lacombe — frère / camping
+## 5. Cédric Lacombe — frère / camping (**fausse solution**)
 
 **Identité** : 49 ans, gérant camping **Vue sur Puys**, mains de piquet, barbe, colérique à bas bruit.
 
@@ -121,19 +121,19 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Voix** : familier, « mes emplacements », « ta grange ». Sous pression : accuse tout le monde puis se tait.
 
-**Sort** : blanchi ch. 14.
+**Sort** : accusé ch. **19**, blanchi ch. **20** (replay Zoom + badge médiathèque) — **fausse solution**.
 
 ---
 
-## 6. Inès Volpilhac — conteuse / folkloreuse
+## 6. Maëlle Volpilhac — archiviste folklore
 
-**Identité** : 37 ans, enregistreur autour du cou, bottes, idéaliste pragmatique, soirées légendes payantes.
+**Identité** : 37 ans, gants de coton d’archives, bottes, idéaliste pragmatique ; **archiviste folklore** à la Maison des Laves (numérisation légendes orales / cartes anciennes) — **pas** photographe documentant l’illégal (≠ Inès Morel / *Baie*).
 
-**Secret** : dossier (enregistrements / photos) du pillage — protégeait Mathieu / le puy, pas le scandale gratuit.
+**Secret** : **carte annotée 2020** (passages / abri) rangée trop longtemps dans le tiroir « légendes » — protégeait le puy, pas le scandale gratuit.
 
-**Voix** : précise, « version du conte », « on ne ment pas aux pierres ». Ne dramatise pas en horreur.
+**Voix** : précise, « cote d’archive », « on ne ment pas aux pierres ». Ne dramatise pas en horreur.
 
-**Sort** : blanchie ch. 11 ; alliée folklore juste.
+**Sort** : blanchie ch. 11 (tampon inventaire médiathèque) ; alliée via la carte — pas le miroir « cri public → photos → blanchie 11 ».
 
 ---
 
@@ -173,7 +173,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 ---
 
-## 9. Berthe Neyrat — confidente / aînée
+## 9. Léonie Neyrat — confidente / aînée (ex-Berthe ; ≠ Berthe Ravel)
 
 **Identité** : 73 ans, auberge **Le Basalte**, tabliers, opinions, versions de légendes en stock.
 
@@ -196,7 +196,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Identité** : croisé berger, pelage cendre / noir, 5 ans, gilet orange parfois, refuse certains couloirs de scories.
 
-**Rôle** : compagnon cosy ; alerte sabotage ch. 12 ; aboie abri ch. 22. **Pas** d’ADN sous les griffes façon polar TV (leurre évité / semelle à la place).
+**Rôle** : compagnon cosy ; alerte registre / codes ch. 12 ; aboie abri ch. 22. **Pas** d’ADN sous les griffes façon polar TV.
 
 ---
 
@@ -222,13 +222,13 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 | 2022 | Affaire de disparition qui hante Thomas (autre secteur) |
 | 2023 | Marion classe trop vite un signalement (son secret) |
 | 2024–2026 | Montée de Chaleur Vive ; soirées légendes ; tensions Mathieu / Hélène / Sylvain |
-| **Mardi 22 sept.** ≈ 19 h 50–20 h 25 | Disparition / mort soft près de l’Écho ; Sylvain à l’auberge ≈ 21 h 05 |
+| **Mardi 22 sept.** ≈ 19 h 50–20 h 25 | Mort soft (balisage faussé + laissez-passer détourné, **pas de frappe**) ; Sylvain à l’auberge ≈ 21 h 05 |
 | **Mardi 22 sept. (crépuscule)** | Marion voit disparaître Mathieu (ch. 1) — **début du roman** |
-| 23–27 sept. | Enquête, fausses pistes, sabotage (ch. 2–12) |
-| 28–30 sept. | Pillage, carnet, fausse solution Hélène (ch. 13–20) |
+| 23–27 sept. | Enquête, fausses pistes, registre / codes volés (ch. 2–12) |
+| 28–30 sept. | Pillage, carnet (sans S.P.), fausse solution **Cédric** (ch. 13–20) |
 | **Jeudi 1er oct.** | Certitude, confrontation, arrestation (ch. 21–23) |
 | Jours suivants | Réparation / épilogue (ch. 24) |
 
 ---
 
-*Fin PERSONNAGES v1 — aucun manuscrit.*
+*Fin PERSONNAGES v1.1 — aucun manuscrit.*
