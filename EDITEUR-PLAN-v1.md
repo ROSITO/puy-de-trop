@@ -1,0 +1,96 @@
+# EDITEUR — Relecture du plan v1 de *Puy de trop*
+
+*Editeur, 01/10/2026. Destinataire : Bernard W. Review courte (demande Maxime).*
+
+*Relu : `PLAN.md` v1 (§ 0–8), `PERSONNAGES.md`, `FICHE.md`, `ETAT.md` ; commit `6ae444a` (branche `bernard`) ; brief N4 (`la-fouine/FILE-PUBLICATIONS.md`) ; `RULES.md` § 0 + § 11 ; anti-clone *Bulles* / *Baie* (EDITEUR-PLAN-v1 Baie) / *Lumière* / *Vin chaud*. Aucun chapitre à juger.*
+
+## Verdict
+
+**modifications demandées** — 1 BLOQUANT, 2 IMPORTANT, 4 MINEUR.
+
+Le socle FILE N4 tient : guide volcanologue Marion Chazal, disparition près d’un cratère, légendes / portes sous laves colorent, **solution humaine**, magie d’atmosphère jamais horreur, Saint-Genès fictif, 24 × ≈ 2 500 / 60k, FICHE sans spoiler, A2 métier UNIQUE, freeze manuscrit respecté. Mais **l’énigme rejoue le châssis *Bulles* (et le plan Baie v1 bloqué pour la même raison)** : collègue « allié » + coup soft + accident de lieu + carnet + manie ch. 7 + orientation « je dis ça sans vouloir… » + fausse solution + **visio horodatée** 19–20 + sabotage ch. 12 + titres « Ce que X… » + thermos. Ce n’est pas un air de famille cosy : c’est le même livre sous brume. À casser avant toute écriture — d’autant plus que Baie vient d’être renvoyé pour ce calque.
+
+## Ce qui est conforme (rien à changer)
+
+- Brief N4 : guide volcanologue ; disparition près cratère ; légendes fées / portes sous laves **colorent** ; solution humaine ; magie douce optionnelle, jamais horreur.
+- Fantasy douce tenue : brume / pierre tiède / écho = atmosphère ; dénouement 100 % humain. Garder la note § 0.
+- Différenciation poison : **aucune digoxine / gourde / allergène / kit** — OK vs *Vin chaud* et *Lumière*.
+- A2 : métier guide volcanologue / médiatrice UNIQUE ; âge 38 ; ancrée 5 ans ; Auvergne ≠ Champagne / Lyon / Baie / Haut-Doubs. **3/3** vs cosys Mas.
+- Violence soft hors champ ; romance sans baiser ; calendrier des révélations présent ; PERSONNAGES ↔ PLAN alignés ; voix scories / brume (pas « Je sers / Je déguste / La baie… »).
+- Longueur 24 × ≈ 2 500 (plancher RULES, fourchette Mas 55–70k) : **écart signalé OK**.
+- Pas de manuscrit : freeze Maxime OK. Ne pas merger la PR.
+
+## Modifications demandées
+
+**1 — BLOQUANT — Mécanique d’énigme trop proche de *Bulles* (et de Baie v1 bloqué).**
+
+Même squelette, payoffs calqués :
+
+| *Bulles* (Champagne) | *Baie* v1 (bloqué) | *Puy* (plan v1) |
+|---|---|---|
+| Cadet « allié » (Thibault) | Cadet « allié » (Étienne) | Collègue « allié » (**Sylvain**) |
+| Coup soft hors champ | Coup soft hors champ | Coup soft hors champ |
+| Abandon → **accident de cave** | Abandon → **accident de baie** | Attraction / chute → **accident de brume / légende** |
+| Cahier de la victime | Cahier de marais | **Carnet** de Mathieu |
+| Habitude plantée ch. 7 (« corrige à la réserve ») | Habitude plantée ch. 7 | Habitude plantée ch. 7 (**cirage bâtons le mardi**) |
+| Oriente vers le frère / héritier (« je dis ça sans vouloir… ») | Oriente vers Sandrine (même tic) | Oriente vers **Hélène** (**même tic exact**) |
+| Fausse solution fratrie + **visio horodatée** (19–20) | Idem Sandrine + visio | Idem **Hélène** + visio partenaires (19–20) |
+| Sabotage / cambriolage ch. 12 | Sabotage réserve ch. 12 | Sabotage hangar Maison des Laves ch. 12 |
+| Partie « **Ce que la cave retient** » | « **Ce que la vase retient** » | « **Ce que les scories taisent** » + ch. 17 « **Ce que le carnet retient** » |
+| Thermos / badge de l’allié | Thermos d’Étienne | Thermos de Sylvain (ch. 2 « Polaire et thermos », FICHE « tend le thermos un peu trop vite ») |
+
+Une lectrice de *Bulles* / *Baie* (même plume Julien Mas) a l’impression de relire le même livre entre puys. A9 / différenciation catalogue : **garde l’ADN N4** (volcans, scories, folklore, solution humaine — c’est le FILE), **mais change le moyen *ou* au moins trois payoffs majeurs** pour casser la reconnaissance.
+
+**Correction minimale acceptable (choisis-en assez) :**
+- **Moyen** : garder une mort soft liée au cratère / tube / brume (c’est le livre), mais **pas** le duo « attire + pousse / bloque pour simuler un accident de lieu » calqué sur le local technique *Bulles* / le vase *Baie*. Autres pistes puy-spécifiques soft (balisage volontairement faussé + exposition ; laissez-passer détourné sans confrontation physique miroir ; piège de fente / éperon hors champ — non reproductible, sans mode opératoire détaillé).
+- **Fausse solution** : pas le promoteur / géothermie + **visio horodatée**. Autre leurre fort (Cédric / Inès / Gilles renforcés, ou un leurre matériel neuf) jusqu’au ch. 19–20.
+- **Carnet** : OK comme objet terrain, mais pas le même arc « pages manquantes → initiales du collègue → confrontation ». Autre preuve pivot (horaires de brume, semelle / laissez-passer seuls, photos Inès, dossier DREAL 2020, commission Pascal Rieu).
+- **Retitre** la partie 2 **et** le ch. 17 (ne pas calquer « Ce que X retient / taisent »).
+- **Ch. 7** : autre détail planté qu’une « manie » miroir de Thibault / Étienne (pas le cirage du mardi comme signature unique).
+- **Thermos** : retirer comme signature de Sylvain (ambiance sentier / Berthe OK ; pas l’objet-allié du coupable — trop *Bulles* + trop *Vin chaud* + déjà signalé Baie). Adoucir FICHE + titre ch. 2.
+- **Tic** : changer « Je dis ça sans vouloir… » (copié-collé Thibault / Étienne).
+- Garder ce qui est neuf et N4 : lecture de brumes / scories / tubes, Basalte, Maison des Laves vs Chaleur Vive, légendes justes vs monétisées, fantasy d’atmosphère.
+
+**2 — IMPORTANT — « S.P. — les sorties de nuit » trop tôt (ch. 9).**
+
+Fin ch. 9 : page du carnet avec **S.P.** Or le seul duo initiales S.P. du casting est **Sylvain Pradel**. À ~37 % du livre, le coupable se lit (surtout combiné à I2 bâtons ch. 7 + I8 orientation). Le calendrier I7 dit pourtant « suggéré 18 / dévoilé 22 » — **contradiction plan ↔ calendrier** (même défaut que « É. » / Étienne sur Baie).
+
+**Correction :**
+- Au ch. 9–11 : page **ambiguë** (initiale illisible, autre initiale leurre, ou « sorties de nuit » sans lettres).
+- Initiales **S.P.** seulement après la fausse solution (ou au plus tôt ch. 17–18, encore disputables).
+- Harmonise § 6.1 I7, résumé § 1, ch. 9 / 17 / 21–22 et PERSONNAGES.
+
+**3 — IMPORTANT — Inès Volpilhac = collision catalogue avec Inès Morel (*Baie*).**
+
+Même prénom + **même archétype** sous Julien Mas, dans deux plans quasi jumeaux :
+- photographe / conteuse nature qui **documente l’illégal** (braconnage / pillage) ;
+- blanchie au **ch. 11** ;
+- alliée folklore / nature juste.
+
+Neige a déjà dû renommer une Inès pour collision catalogue. **Correction :** renomme Inès (ex. Lucie, Aline, Maëlle Volpilhac — éviter aussi Élise / Nadia / Clara / Sandrine / Corinne déjà pris côté Mas) **et** varie un peu le rôle (pas le miroir exact « cri public → photos / enregistrements → blanchie 11 »). Propager PLAN + PERSONNAGES + FICHE + ETAT.
+
+**4 — MINEUR** (écriture / petit delta plan) :
+1. **Titres** partie 2 + ch. 17 : renommer (lié au B1).
+2. **Thermos** : dé-signer Sylvain ; FICHE + ch. 2 + couverture (lié au B1).
+3. **Berthe Neyrat** : écho de Berthe Ravel (*Cidre*) — renommer l’aînée (ex. Léonie, Paulette, Odette déjà pris Baie → autre).
+4. **FILE N4 « freelance »** vs plan « médiatrice Maison des Laves » ancrée 5 ans : petit écart. Soit une note § 0 (brief « idée » ; ancrée OK), soit un statut mixte (vacations / contrat) — sans impact bloquant.
+
+## Écarts que j’accepte d’emblée
+
+- Chapitres ≈ 2 500 mots (bas de fourchette RULES, cohérent 60k / 24).
+- FILE « idée — pas de brief » : plan sur brief Maxime / N4 — OK (comme *Bulles* / *Lumière* / *Baie*).
+- Structure cosy 24 ch. / fausse solution / réparation ch. 24 : **OK si B1 traité** (sinon triple collision structure + moyen avec *Bulles* **et** Baie).
+- Romance sans baiser ; Basalte sans ADN sous les griffes ; Hélène ≠ Sandrine Haegel (prénom différent, archétype promoteur / géothermie — acceptable **si** la visio 19–20 part avec B1).
+- Fantasy douce atmosphère only : OK.
+
+## Conclusion
+
+Un bloquant : **désadhérer l’énigme de *Bulles* / Baie v1** tout en gardant l’ADN puy / FILE N4. Deux IMPORTANT : **flouter S.P. jusqu’après la fausse solution**, et **renommer / reconfigurer Inès**. Les MINEUR ne bloquent pas.
+
+Quand B1 (+ I2–I3) sont dans PLAN / PERSONNAGES, renvoie une **note de delta** (pas une v2 pavé) : je ne relirai que les passages touchés.
+
+**modifications demandées**
+
+---
+
+*Freeze rédaction Maxime : aucun chapitre tant que le plan n’est pas validé **et** que Maxime n’a pas levé le freeze manuscrit. Ne merge pas la PR `bernard` → `main` — Maxime seul (`RULES.md` § 11).*
