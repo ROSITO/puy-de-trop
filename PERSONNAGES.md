@@ -1,6 +1,6 @@
 # PERSONNAGES — Puy de trop
 
-*Cosy fantastique / fantasy cosy, Chaîne des Puys / Auvergne. Auteur : **Julien Mas**. Version **1.2**, Bernard W, 2026-10-01 (audit Maxime Fouine N1–N10 item 8). Plan uniquement — aucun chapitre écrit.*
+*Cosy fantastique / fantasy cosy, Chaîne des Puys / Auvergne. Auteur : **Julien Mas**. Version **1.3**, Bernard W, 2026-10-01 (passe 2 cosy). Plan uniquement — aucun chapitre écrit.*
 
 Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puys sont inventés. Aucune personne réelle n’est mise en scène. Clermont-Ferrand, Orcines, Vulcania, Riom, le Puy de Dôme ne servent que de repères géographiques.
 
@@ -17,7 +17,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 7. Gilles Meyssat — maire
 8. Sylvain Pradel — collègue (**allié vrai** — ni coupable, ni FS)
 9. Adjudant Thomas Guéry — le gendarme
-10. Colette Neyrat — confidente / aînée (**ex-Léonie** ; anti-Figatelli)
+10. Colette Neyrat — confidente / aînée (**anti-Léonie** ; ≠ Odette van)
 11. Basalte — le chien de Marion
 12. Personnages d’appui
 13. Chronologie complète
@@ -35,13 +35,13 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Caractère** : calme, têtue, humour sec de plateau ; justice de sentier ; **refuse longtemps** de traiter la magie comme outil d’enquête (honte 2021).
 
-**Méthode d’enquête** : brumes, strates, boussole, carnet, Basalte, **Écoute (R1–R5, coût payé)**. **Limites** : honte magique jusqu’au ch. 13–21 ; accusation trop vite de Cédric (ch. 19).
+**Méthode d’enquête** : brumes, strates, boussole, carnet, Basalte, **Écoute (R1–R5, coût payé)** puis croisement humain. **Limites** : honte magique jusqu’au ch. 13–21 ; accusation trop vite de Cédric (ch. 19).
 
-**Désir** : protéger le puy et les seuils ; que Mathieu n’ait pas parlé pour rien ; **réapprendre à écouter**.
+**Désir** : protéger le puy et les seuils ; que Mathieu n’ait pas déposé pour rien ; **réapprendre à écouter**.
 
 **Peur** : devenir la guide qui a nié l’Écoute ; Maison des Laves grignotée ; se tromper en public.
 
-**Secret (v1.2 — ≠ Baie waiver / ≠ v1.1 signalement 2023)** : en **2021**, une pierre d’écho l’a prévenue d’un **effondrement de sentier** ; elle a **refusé d’écouter** (honte, peur du ridicule) — une randonneuse s’est **blessée légèrement**. Honte douce. Partiel ch. 13, complété ch. 23–24.
+**Secret** : en **2021**, une pierre d’écho l’a prévenue d’un **effondrement de sentier** ; elle a **refusé d’écouter** (honte, peur du ridicule) — une randonneuse s’est **blessée légèrement**. Honte douce. Partiel ch. 13, complété ch. 23–24. **≠** waiver film (*Baie*).
 
 **Évolution** : de la médiatrice qui nie le don à celle qui assume Écoute + enquête ; reste ancrée ; accepte l’aide de Thomas.
 
@@ -49,15 +49,15 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Sa voix**
 - *Niveau* : courant, précis ; touches folkloriques tenues.
-- *Vocabulaire* : scories, basalte, seuil, pierre d’écho, Écoute, tube, brume, « on écoute le puy ».
-- *Tics* : « On regarde d’abord. » ; « Le puy a déjà répondu. » ; compare un mensonge à une pierre froide.
-- *Ne dirait jamais* : jargon polar TV ; « la Dame a frappé » littéral ; vanne sur un mort.
+- *Vocabulaire* : scories, basalte, seuil, pierre d’écho, Écoute, tube, brume, « on écoute le puy », « je croise les échos ».
+- *Tics* : **« Je n’accuse pas sur une brume. Je croise les échos. »** ; « Le puy a déjà répondu. » ; compare un mensonge à une pierre froide.
+- *Ne dirait jamais* : jargon polar TV ; « la Dame a frappé » littéral ; vanne sur un mort ; **« Je ne fouine pas… »** ; **« On regarde d’abord… »** (calques catalogue) ; tics Camille / Solène / Claire.
 - *Sous pression* : phrases plus courtes, puis calme de boussole — ou frissons d’Écoute.
 - *Exemples* :
-  - « Votre alibi, adjudant, ignore la brume. Le seuil, lui, marque les menteurs. »
-  - « Je ne fouine pas. J’écoute — quand j’ose. Les scories gardent mieux les secrets que les hommes. »
+  - « Votre alibi, adjudant, ignore la brume. Le seuil, lui, marque les menteurs — sans les nommer. »
+  - « Je n’accuse pas sur une brume. Je croise les échos — et l’horodatage. »
 
-**Anti-calque** : ≠ Camille (« Je sers »), Solène (« On isole »), Claire (« La baie… ») — ici **coulée / seuil / Écoute**.
+**Anti-calque** : ≠ Camille (« Je sers »), Solène (« On isole »), Claire (« Je croise les coefficients ») — ici **coulée / seuil / Écoute**.
 
 ---
 
@@ -67,15 +67,15 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Caractère** : droit, râleur juste, peu diplomate, loyal aux seuils.
 
-**Secret** : carnet + preuves pillage / contrefaçons Armand + bornes Chaleur Vive ; allait parler.
+**Secret** : carnet + dossiers pillage / contrefaçons Armand + bornes Chaleur Vive ; allait **déposer** à la Maison des Laves + copie **DREAL**.
 
-**Voix** (souvenirs) : « le puy ne ment pas, les gens oui » ; « Scories vend du froid habillé en chaleur ».
+**Voix** (souvenirs) : « le puy ne ment pas, les gens oui » ; « Scories vend du froid habillé en chaleur » ; **« Demain, j’apporte le carnet et les vraies pierres à la Maison — copie DREAL. »** (≠ « je dirai tout »).
 
 ---
 
 ## 3. Armand Delorme — le coupable
 
-**Identité** : 51 ans, patron de **Scories & Secrets**, polaire sans logo Maison, sourire de stand, odeur de scorie chauffée (pas de thermos-signature). **Jamais** allié de Marion.
+**Identité** : 51 ans, patron de **Scories & Secrets**, polaire sans logo Maison, sourire de stand, odeur de scorie chauffée. **Jamais** allié de Marion.
 
 **Type (anti-miroir)** : **commerçant du mystique** — ≠ Bruno rival concession (*Baie*) ; ≠ Élise co-gérante (*Bulles*) ; ≠ Sylvain collègue-allié (Puy v1.1).
 
@@ -115,7 +115,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Sort** : blanchie ch. **15** ; assume avenant ch. 24.
 
-**Anti-calque** : ≠ Corinne staccato (*Baie*) ; ≠ Victor volume (*Bulles*) — ici jargon énergétique, pas ROI ostréicole ni cave.
+**Anti-calque** : ≠ Corinne staccato (*Baie*) ; ≠ Victor volume (*Bulles*) — ici jargon énergétique.
 
 ---
 
@@ -127,7 +127,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Voix** : familier, « mes emplacements », « ta grange ».
 
-**Sort** : accusé ch. **19**, blanchi ch. **20** (**selfie cinéma multiplex Clermont** + **deux voisins**) — **FS**. ≠ Zoom v1.1 ; ≠ GPS Baie ; ≠ visio Bulles.
+**Sort** : accusé ch. **19** (« Vue sur Puys »), blanchi ch. **20** (**selfie cinéma multiplex Clermont** + **deux voisins**) — **FS**. ≠ Zoom v1.1 ; ≠ GPS Baie ; ≠ visio Bulles.
 
 ---
 
@@ -139,7 +139,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Voix** : « cote d’archive », « on ne ment pas aux pierres ».
 
-**Sort** : blanchie ch. 11 ; alliée via la carte.
+**Sort** : blanchie ch. 11 ; alliée via la carte ; présente à la **certitude partagée** ch. 21.
 
 ---
 
@@ -167,7 +167,9 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Secret** : aucun crime — seulement la gêne d’avoir trop fait confiance aux « arrangements » villageois.
 
-**Voix** : « Je te sors le planning. » ; **plus** de tic « Disons que… » orienteur (réservé V1.1 coupable). Soft : « On regarde ensemble. »
+**Voix** : « Je te sors le planning. » ; Soft : « On regarde ensemble. » (≠ tic orienteur toxique).
+
+**Rôle climax** : **radio** créneau planning ch. 22 (aide technique) — **pas** confidente-van.
 
 **Anti-miroir** : **inverse** Puy v1.1 (Sylvain coupable) ; **≠** Étienne FS-allié (*Baie*) ; **≠** Thibault FS (*Bulles*).
 
@@ -179,26 +181,29 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 - 40 ans (né en 1986 à Riom). 1,80 m, brun, barbe courte, parka, carnet. Antenne puys depuis deux ans.
 - Célibataire ; un frère à Clermont. Observe les buses.
 
+**Fonction + trait (≠ Lucas / *Baie*)** : croise **PV et Écoute** seulement quand l’horodatage tient ; sceptique poli face à la magie jusqu’à la concordance ; annote un **carnet de brumes** (pas table de coefficients). **Jamais** thermos d’auberge en rite final.
+
 **Caractère** : patient, procédurier sans arrogance ; **sceptique poli** face à l’Écoute jusqu’à ce qu’elle croise un horodatage. ≠ Romain ≠ Noah ≠ Lucas Vermeulen.
 
 **Désir** : boucler propre avant que la presse « Dame des Scories » n’impose une tête de turc.
 
-**Peur** : erreur sur un « accident de brume » ; revoir Marion en danger (ch. 12).
+**Peur** : erreur sur un « accident de brume » ; revoir Marion en danger (ch. 12) ; décevoir sa mère.
 
-**Secret (v1.2 — ≠ Baie fils Lille / ≠ v1.1 disparition mal lue 2022)** : **mère en EHPAD à Issoire** ; il a menti sur un week-end « formation » pour y aller (honte douce de fils absent / procédure). Ch. 15 / 24.
+**Secret** : **mère en EHPAD à Issoire** ; il a menti sur un week-end « formation » pour y aller (honte douce). Ch. 15 / 24. **≠** fils Lille (*Baie*).
 
-**Évolution** : ragots tourisme mystique → respect méthode Marion + magie fair-play ; prénom au ch. 24. Pas de baiser.
+**Évolution** : ragots tourisme mystique → respect méthode Marion + magie fair-play ; **dit le prénom au ch. 23** (pas 24). Pas de baiser.
 
 **Voix**
-- « Madame Chazal » jusqu’au 24.
-- Tics : « Procédure. » ; « Horodatage. » ; « Expliquez-moi votre pierre. »
+- « Madame Chazal » jusqu’au 23.
+- Tics : « Procédure. » ; « Horodatage. » ; « Expliquez-moi votre pierre — ensuite le PV. »
 - Exemple : « Vous avez l’Écoute. Moi j’ai le PV. On croise — dans l’ordre. La magie ne signe pas seule. »
+- Ne dirait jamais : vanne sur le mort ; « On accélère pour les journalistes. »
 
 ---
 
-## 10. Colette Neyrat — confidente / aînée (**anti-Léonie**)
+## 10. Colette Neyrat — confidente / aînée (**anti-Léonie** ; ≠ Odette van)
 
-**Identité** : 73 ans, auberge **Le Basalte**, tabliers, versions de légendes en stock. **Renommée** : anciennement « Léonie » en v1.1 — **interdit** (Léonie Cesari = *Figatelli*). ≠ Odette (*Baie*) ; ≠ Berthe (*Cidre*) ; ≠ Rose (*Bulles*).
+**Identité** : 73 ans, auberge **Le Basalte**, tabliers, versions de légendes en stock. **Anti-Léonie** : ≠ Léonie Cesari (*Figatelli*). ≠ Odette (*Baie* — et **pas** témoin-véhicule climax) ; ≠ Berthe (*Cidre*) ; ≠ Rose (*Bulles*).
 
 **Caractère** : fidèle, râleuse, tendre en actes. Enseigne R1–R3 sans horreur. Corrige ceux qui font peur pour vendre.
 
@@ -206,7 +211,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Peur** : le silence après la brume ; avoir trop fermé les yeux depuis 2020.
 
-**Secret** : a vu la **camionnette Scories & Secrets** trop tôt ; a d’abord douté (révélé 20–21).
+**Secret (S8)** : a **douté** des « vraies » pierres Scories depuis 2020 (chaleur trop nette / trop lisse) ; a d’abord tu — révélé ch. **20**. **Ne voit pas / ne court pas** couper une fuite ch. 22 : **reste au zinc**.
 
 **Voix**
 - Populaire auvergnat léger, « ma grande », « à la brume on verra ».
@@ -219,7 +224,7 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 
 **Identité** : croisé berger, pelage cendre / noir, 5 ans, gilet orange parfois, refuse certains seuils froids.
 
-**Rôle** : compagnon cosy ; alerte tiroir ch. 12 ; aboie seuil ch. 22 ; grogne si Marion force l’Écoute. **Pas** d’ADN sous les griffes.
+**Rôle** : compagnon cosy ; refuse le seuil froid ch. 12 (**ambiance**, pas alerte-chasse) ; présent ch. 22–24. **Pas** d’ADN sous les griffes. **Pas** le dispositif qui « trouve » la preuve (Marion trouve la contrefaçon dans le boîtier).
 
 ---
 
@@ -228,11 +233,11 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 | Nom | Rôle | Apparitions |
 |---|---|---|
 | Médecin de garde (inventé) | Première hypothèse chute / exposition | ch. 5–6 |
-| Serveuse auberge (**Léa**, 24) | Demi-témoin horaires | ch. 8, 21 |
+| Serveuse auberge (**Léa**, 24) | **I5** : Armand + horaire de brume / camionnette Scories | ch. 8, **18**, 21 |
 | Stagiaire médiatrice (**Noémie**, 22) | Accroche douce DREAL 2020 | ch. 24 |
 | **Jules Delorme**, 19, neveu | Stand Riom (témoin de bonne foi) | ch. 8, 14, 21 |
 | Journaliste locale (*Les Échos du Puy*) | Pression « magie » | ch. 3–6 |
-| Directeur Maison des Laves (**Alain Courty**, 61) | Pression institutionnelle douce | ch. 6, 13, 24 |
+| Directeur Maison des Laves (**Alain Courty**, 61) | Pression institutionnelle douce ; destinataire du dépôt Mathieu | ch. 6, 13, 24 |
 
 ---
 
@@ -245,16 +250,16 @@ Tous les personnages, commerces, puys inventés et lieux de Saint-Genès-des-Puy
 | **2021** | Marion **refuse** une Écoute → blessure légère randonneuse (**secret**) |
 | 2024–2026 | Montée Scories & Secrets + Chaleur Vive ; tensions Mathieu / Armand / Hélène |
 | **Mardi 22 sept.** ≈ 19 h 50–20 h 25 | Mort soft (pierre contrefaite + cale seuil) ; Armand « à Riom » (alibi truqué) |
-| **Mardi 22 sept. (crépuscule)** | Marion voit disparaître Mathieu (ch. 1) — **début du roman** |
-| 23–27 sept. | Enquête, magie enseignée, seuil glacé, sabotage tiroir (ch. 2–12) |
+| **Mardi 22 sept. (crépuscule)** | Marion **voit** disparaître Mathieu (ch. 1) — **début du roman** (même sentier / groupe, pas « autre versant ») |
+| 23–27 sept. | Enquête, magie enseignée, seuil glacé, lanterne morte (ch. 2–12) |
 | 28–30 sept. | Pillage, Écoute, FS **Cédric** (ch. 13–20) |
-| **Jeudi 1er oct.** | Certitude, confrontation, arrestation (ch. 21–23) |
+| **Jeudi 1er oct.** | Chaîne partagée, confrontation+arrestation, village (ch. 21–23) |
 | Jours suivants | Réparation / épilogue (ch. 24) |
 
-### Âges (audit — règle)
+### Âges
 
-Aucune impossibilité prouvée sur le casting v1.1 → **âges conservés** (Marion 38, Mathieu 46, Hélène 45, Cédric 49, Maëlle 37, Gilles 58, Sylvain 43, Thomas 40, Colette 73). **Armand** introduit à **51** (crédible commerçant ancré). Pas de freeze levé.
+Aucune impossibilité — casting conservé (Marion 38, Mathieu 46, Hélène 45, Cédric 49, Maëlle 37, Gilles 58, Sylvain 43, Thomas 40, Colette 73, Armand 51). Pas de freeze levé.
 
 ---
 
-*Fin PERSONNAGES v1.2 — aucun manuscrit. Pas de Léonie.*
+*Fin PERSONNAGES v1.3 — aucun manuscrit. Pas de Léonie.*
