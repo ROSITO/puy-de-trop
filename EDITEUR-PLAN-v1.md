@@ -94,3 +94,30 @@ Quand B1 (+ I2–I3) sont dans PLAN / PERSONNAGES, renvoie une **note de delta**
 ---
 
 *Freeze rédaction Maxime : aucun chapitre tant que le plan n’est pas validé **et** que Maxime n’a pas levé le freeze manuscrit. Ne merge pas la PR `bernard` → `main` — Maxime seul (`RULES.md` § 11).*
+
+---
+
+# Addendum v1.1 : validé
+
+*Editeur, 01/10/2026. Vérification delta Bernard (`DELTA-EDITEUR-v1.md`, commit `35d5f1d`) contre plan v1.1 (`PLAN` / `PERSONNAGES` / `FICHE` / `ETAT`). Passages touchés seulement. Aucun chapitre.*
+
+## Table de vérification
+
+| # | Demande | Attendu | Constat spot-check | Statut |
+|---|---|---|---|---|
+| **B1** BLOQUANT | 3ᵉ châssis ≠ *Bulles* ≠ Baie v1.1 | Moyen + ≥3 payoffs majeurs distincts | **Moyen** : balisage temporaire faussé + laissez-passer détourné (tube Galeries du Souffle) — pas de frappe / poussée (`PLAN` § 2, ch. 22 ; `PERSONNAGES` chronologie 22 sept.). **Allié** bureaucratique (codes / plannings / balises) ≠ thermos émotionnel. **FS** : Cédric accusé 19, blanchi 20 par replay Zoom géologie + badge médiathèque Clermont (`PLAN` ch. 19–20 « Replay ») — ≠ visio partenaires / ≠ Yannick émargement. **Sabotage** ch. 12 « Registre mort » : registre laissez-passer + codes / clé maître (+ fragment balise) ≠ carnets / semelle. **Carnet** : horaires de brume / amulettes ; preuve pivot = balises + codes + laissez-passer + carte Maëlle + DREAL — pas arc pages→initiales→confrontation. | **OK** |
+| **I2** IMPORTANT | Flouter S.P. jusqu’après FS | S.P. ≥ ch. 21 | Ch. 9 fin : « sorties de nuit — guide ? » **sans** S.P. ; ch. 17 « Horaires de brume » sans S.P. lisible ; **S.P. enfin lisible ch. 21** ; I7 calendrier 9–11 ambigu / 18 disputable / **21–22** dévoilé (`PLAN` § 1, § 6.1, ch. 9/17/21). | **OK** |
+| **I3** IMPORTANT | Inès → autre + rôle varié | Nom + archétype ≠ Inès Morel | **Maëlle Volpilhac**, archiviste folklore (numérisation / cartes) — pas photographe documentant l’illégal ; blanchie 11 via tampon inventaire + carte annotée 2020 (`PERSONNAGES` § 6 ; `PLAN` ch. 11 ; `FICHE`). | **OK** |
+| M1 | Titres « Ce que X » | Retitrer p.2 + ch. 17 | Partie 2 **« Sous l’écho des laves »** ; ch. 17 **« Horaires de brume »** ; ch. 2 « Polaire et brume » ; ch. 7 « Secteurs fermés » ; ch. 12 « Registre mort » ; ch. 20 « Replay ». Aucun « Ce que … » restant hors delta historique. | **OK** |
+| M2 | Thermos signature Sylvain | Dé-signer | Sylvain : « pas de thermos-signature » (`PERSONNAGES`) ; thermos → Léonie / Thomas / ambiance (`PLAN` ch. 2, 24 ; `FICHE` 4e adoucie). | **OK** |
+| M3 | Tic « je dis ça sans vouloir » | Autre tic | **« Disons que… »** (I8 ; ≠ Baie « Entre nous… »). | **OK** |
+| M4 | Berthe / freelance | Léonie + note FILE | **Léonie Neyrat** ; note § 0 freelance vs ancrée OK. | **OK** |
+| Residual | Ch. 7 manie cirage | Autre plant | Ch. 7 **« Secteurs fermés »** — codes + balises temporaires (I2 planté). | **OK** |
+
+## Conclusion
+
+B1 + I2–I3 fixés dans PLAN / PERSONNAGES / FICHE / ETAT v1.1. MINEUR traités. Châssis #3 distinct de *Bulles* (frappe + visio + manie) et de Baie v1.1 (marée / Yannick / émargement). ADN N4 conservé. Aucun chapitre. Ne pas merger.
+
+**validé**
+
+*Freeze manuscrit Maxime inchangé. PR `bernard` → `main` : Maxime seul.*
