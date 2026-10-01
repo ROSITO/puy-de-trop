@@ -202,3 +202,47 @@ Fixes audit item 8 présents et cohérents dans PLAN / PERSONNAGES / FICHE / ETA
 ### Conclusion
 
 **validé.** Plan OK pour rédaction *quand Maxime lève le freeze manuscrit*. Ne merge pas la PR — Maxime seul.
+
+---
+
+## Addendum DELTA-GENERAL / Puy §10 : validé
+
+**Date :** Editeur 01/10/2026  
+**Commit relu :** `6fb4c80`  
+**PR :** #1 (`bernard` → `main`)  
+**Note :** `DELTA-PUY-v1.md` + PLAN / PERSONNAGES / FICHE v1.4 §10 (cadre `DELTA-GENERAL-v1.md` A3–A5)  
+**Croisé Baie :** tip `c02d6e8` (A1 arrest 23 ; A2 fin sans miroir)
+
+*Editeur — revalidation post-corrections §10 Maxime + anti-clone vs Baie (ch.12 magique-only ; Marion seule 21 ; Colette climax ; secret Thomas pro ; Capucine). Freeze manuscrit maintenu. Pas de merge. PLAN / FICHE / PERSONNAGES non retouchés dans cet addendum. A3–A5 = **proposition DELTA-GENERAL appliquée**, pas « tranché Maxime ».*
+
+### Points Bernard vérifiés
+
+| Point | Statut | Commentaire |
+|---|---|---|
+| **Ch.12 magique-only** (A3) | **OK** | « Lanterne morte » : pulse / lanternes qui s’éteignent ; **pas** vol tiroir ni objet joint/bon — vol → **ch.13**. ≠ vanne Baie. |
+| **Marion seule 21** (A4) | **OK** | Paie R2 + empreinte R1bis seule ; dossier → Thomas **après** ; Maëlle archive sur appel — pas duo/trio certitude. |
+| **Colette climax** (A5) | **OK** | Ch. 22 présente : vérité à voix basse → fausse pierre Armand muette (R1) — ≠ Odette café / ≠ van coupe-fuite. |
+| **Secret Thomas pro** (A5) | **OK** | Honte pro classement « accident de brume » 2023 — **≠** EHPAD / ≠ fils Lille (*Baie*). |
+| **Capucine** | **OK** | I5 horaire brume / camionnette — **≠** Léa (*Baie*). |
+| Magie R1–R5 + DL | **OK** | R1bis empreinte ; R5 ≠ PV ; décor / perso clés / DL 30/04/2027 **gardés**. |
+
+### Rupture vs Baie / Lumière / Bulles
+
+| Contrôle | Statut | Commentaire |
+|---|---|---|
+| vs Baie | **OK** | Midpoint magique ≠ vanne ; certitude solo ≠ Claire+Lucas ; Colette active ≠ Odette absente ; secret pro ≠ Lille ; arrest **22** (Baie a décalé **23**) ; fin « On écoute… » ≠ miroir / ≠ coefficients. |
+| vs Lumière / Bulles | **OK** | Tableau §0.2 : absents local/Gras Double/filet ; échantillons/huis clos ; Vue sur Puys ≠ Soft mobility. |
+| Fin sans « Tu ne mens jamais » | **OK** | « On écoute. On ne vend pas… trop d’échos. » |
+
+### Anti-régression vs passe2-v2
+
+Armand / Riom+stories / pierre+cale / FS Cédric / Vue sur Puys / formule « Je croise les échos » / quatrième Écoute / R5 — **intacts**. *(Vol+contrefaçon hors ch.12 ; certitude duo→Marion seule ; Colette→climax ; Léa→Capucine ; EHPAD→honte pro = changements **voulus** A3–A5.)*
+
+### Nuance MINEUR (n’ouvre pas de cycle)
+
+- Titre ch.13 « Ce que j’ai refusé » : écho soft déjà noté — micro-retitre à l’écriture possible.
+- Tension FILE N4 magie « optionnelle » vs centrale : déjà acceptée audit (crime humain + R5).
+
+### Conclusion
+
+**validé.** Plan OK pour rédaction *quand Maxime lève le freeze manuscrit*. Ne merge pas la PR — Maxime seul.
