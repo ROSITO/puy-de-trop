@@ -121,3 +121,42 @@ B1 + I2–I3 fixés dans PLAN / PERSONNAGES / FICHE / ETAT v1.1. MINEUR traités
 **validé**
 
 *Freeze manuscrit Maxime inchangé. PR `bernard` → `main` : Maxime seul.*
+
+---
+
+# Addendum audit v2 : validé
+
+*Editeur, 01/10/2026 (≈15:41 CEST). Post-audit revalidation Bernard (`DELTA-AUDIT-v1.md`, commit `07135be`) contre PLAN / PERSONNAGES / FICHE / ETAT v1.2 + FILE N4 (`la-fouine/FILE-PUBLICATIONS.md`). Passages touchés + FILE N4. Aucun chapitre. Pas de merge.*
+
+## Table de vérification
+
+| # | Demande (audit / Editeur) | Attendu | Constat spot-check | Statut |
+|---|---|---|---|---|
+| **A1** | Magie centrale jouable R1–R5 + rôle solution | Règles, coûts, indices fair-play ; magie ≠ deus ex | PLAN § 0.3 R1–R5 ; I2/I3/I7 magiques ; **R5** explicite : magie oriente/confirme, **ne remplace pas** le PV ; preuves humaines (stories, inventaire Maëlle, Colette camionnette, aveux) **condamnent** | **OK** |
+| **A2** | Coupable ≠ Baie Bruno / ≠ Bulles Élise / ≠ allié | Autre type | **Armand Delorme** commerçant mystique (Scories & Secrets) — jamais confident/aide terrain ; ≠ Bruno rival ; ≠ Élise co-gérante ; ≠ Sylvain | **OK** |
+| **A3** | Alibi / moyen / FS ≠ Baie ≠ Bulles ≠ Puy v1.1 | Mécanismes distincts | Alibi **foire Riom** (badge + stories + Jules) ; moyen **pierre contrefaite R4 + cale scories** ; FS **Cédric** selfie cinéma + 2 voisins — ≠ mareyeur / GPS / visio / Zoom / auberge tronqué | **OK** |
+| **A4** | Sylvain allié vrai | Ni coupable ni FS | PERSONNAGES § 8 + PLAN § C : allié bureaucratique jusqu’au bout ; inverse v1.1 | **OK** |
+| **A5** | Secrets ≠ Baie | Marion / Thomas distincts | Marion : **refus Écoute 2021** ; Thomas : **mère EHPAD Issoire** — ≠ waiver film / fils Lille | **OK** |
+| **A6** | Anti-Léonie (Figatelli) | Colette ; zéro rôle Léonie | **Colette Neyrat** partout ; « Léonie » uniquement en mentions anti-doublon | **OK** |
+| **A7** | Genre + plume | Cosy fantastique ; Julien Mas | FICHE / PLAN / ETAT : **cosy fantastique** ; **Julien Mas** conservé | **OK** |
+| **A8** | Titres neufs ≠ « Ce que X retient/taisent » | Parties + fins distinctes | Parties : **Pierres qui écoutent** / **Seuils trop froids** / **Vérités à voix basse** / **L’écho rendu** — ≠ Brume sur l’Écho / Le puy dit vrai | **OK** |
+| **FILE** | N4 : légendes colorent ; solution humaine ; magie douce optionnelle, jamais horreur | Soft magic *aide* ; crime/mobile humains | **Tension documentée, non bloquante** : magie passe d’« optionnelle » à **centrale** (audit item 8 / Maxime). Crime + motive restent **humains** (pillage seuil, contrefaçons, mensonge boutique) ; R5 garde la condamnation humaine ; **jamais horreur**. Accepté sous audit Maxime — pas un whodunit purement surnaturel. | **OK** (note) |
+| Residual | Freeze / merge / DL | Pas de chapitres ; pas merge | Freeze manuscrit intact ; DL 30/04/2027 ; ≥55k / 24 ch. ; branche `bernard` seule | **OK** |
+
+## Note FILE N4 (tension)
+
+Brief N4 (`FILE-PUBLICATIONS.md`) : *« solution reste humaine — magie douce optionnelle »* + niche *cosy fantasy douce*. v1.2 bascule en **cosy fantastique** avec magie **centrale** (Écoute des Scories). **Pas BLOQUANT** : (1) Maxime a validé le prompt d’audit item 8 ; (2) le **qui / pourquoi** restent humains ; (3) la magie **aide** (orientation / confirmation fair-play) sans se substituer au PV (R5). Si Maxime veut réaligner le wording FILE (« optionnelle » → « douce / jouable, jamais horreur ») : hors scope Bernard — note pour Maxime.
+
+## MINEUR restants (n’empêchent pas validé)
+
+1. Titre ch. 13 **« Ce que j’ai refusé »** — écho soft du motif « Ce que… » (parties / ch. 17 déjà retitrés) ; micro-retitre possible à l’écriture.
+2. FILE N4 wording non mis à jour dans `la-fouine/FILE-PUBLICATIONS.md` (genre / « optionnelle ») — à la main Maxime.
+3. Écart FILE « freelance » vs médiatrice ancrée 5 ans : déjà accepté v1.1 (note § 0).
+
+## Conclusion
+
+Fixes audit item 8 présents et cohérents dans PLAN / PERSONNAGES / FICHE / ETAT v1.2. Anti-miroir Baie (Bruno / mareyeur / passerelle) + Bulles (Élise / GPS / confinement) + ancien Puy (Sylvain-coupable / balises) tenu. Tension FILE N4 magie : **acceptée** (crime humain + R5). Aucun chapitre. Ne pas merger. Ne pas lever le freeze.
+
+**validé**
+
+*Freeze manuscrit Maxime inchangé. PR `bernard` → `main` : Maxime seul.*
