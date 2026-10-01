@@ -160,3 +160,45 @@ Fixes audit item 8 présents et cohérents dans PLAN / PERSONNAGES / FICHE / ETA
 **validé**
 
 *Freeze manuscrit Maxime inchangé. PR `bernard` → `main` : Maxime seul.*
+
+---
+
+## Addendum passe2-v2 : validé
+
+**Date :** Editeur 01/10/2026  
+**Commit relu :** `e500ec1`  
+**PR :** #1 (`bernard` → `main`)  
+**Note :** `DELTA-PASSE2-v1.md` + PLAN / PERSONNAGES / FICHE / ETAT v1.3  
+**Anti-clone croisé :** Lumière / Bulles / Baie `@33080bc`
+
+*Editeur — revalidation sous prompt remplacant Maxime (squelette cosy fantastique + magie R1–R5 + quatrième). Freeze manuscrit maintenu. Pas de merge.*
+
+### Cosy distinct
+
+| Point | Statut | Commentaire |
+|---|---|---|
+| Ch.12 Lanterne morte | **OK** | Lanternes éteintes ; contrefaçon trouvée par Marion ; Basalte = ambiance — ≠ vanne / local / échantillons. |
+| Ch.19 Vue sur Puys | **OK** | FS Cédric ; Thomas observateur — ≠ Soft mobility / Gras Double / Mauvais assemblage. |
+| Arc 21→22→23 | **OK** | Chaîne d’écoute (partagée) → Seuil (confrontation+arrest) → Village qui écoute — ≠ cadastre/Marée basse/Quiétude Baie. |
+| Fin registre / brumes | **OK** | Registre seuils scellé + carnet de brumes ; prénom ch.23 ; Écoute partagée — ≠ thermos/affiche / coefficients Baie. |
+| Pas van Colette | **OK** | Colette au Basalte ; climax = plan ch.21 + Sylvain radio ; I5 = Léa. |
+| Formule | **OK** | « Je n’accuse pas sur une brume. Je croise les échos. » |
+
+### Magie R1–R5 / alignements
+
+| Point | Statut | Commentaire |
+|---|---|---|
+| R3 sans désigner | **OK** | Seuil glacé = marque du mensonge **sans auteur** ; recoupement humain. |
+| R5 ≠ PV | **OK** | Magie oriente/confirme ; ne condamne pas seule (rappel ch.22–23). |
+| Chaîne complète | **OK** | Écoute → coût R2 → fragment → fait matériel → gendarmerie (explicite ch.21). |
+| Marion voit Mathieu | **OK** | Occasion + ch.1 alignés : avec le groupe, voit s’écarter puis disparaître — plus d’« autre versant ». |
+| Quatrième réécrite | **OK** | Accroche Écoute / pierre froide / seuils — ≠ « À Haville… » Baie ; ≠ « avait un plan… ». |
+
+### Nuance MINEUR (n’ouvre pas de cycle)
+
+- Titre ch.13 « Ce que j’ai refusé » : écho soft déjà noté audit — micro-retitre à l’écriture possible.
+- Tension FILE N4 magie « optionnelle » vs centrale : déjà acceptée audit (crime humain + R5).
+
+### Conclusion
+
+**validé.** Plan OK pour rédaction *quand Maxime lève le freeze manuscrit*. Ne merge pas la PR — Maxime seul.
