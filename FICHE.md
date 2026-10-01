@@ -2,7 +2,7 @@
 
 Fiche de publication rédigée par Bernard W, destinée à Imprimeur. Tout pour la couverture et la page Amazon, sans relire le livre.
 
-*Version 1.3 — 2026-10-01 (passe 2 cosy). Statut : plan sur `bernard`, PR #1 ; **pas de merge**. Aucun chapitre. Pas de bio inventée pour Julien Mas.*
+*Version **1.4** — 2026-10-01 (§10 Maxime + DELTA-GENERAL vs Baie). Plan sur `bernard`, PR #1 ; ne pas merger. DL **30/04/2027**. Voir `DELTA-PUY-v1.md`.*
 
 ## Identité du livre
 
